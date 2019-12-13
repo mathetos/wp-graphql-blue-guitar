@@ -1,7 +1,9 @@
 <?php
 /**
  * Plugin Name: WPGraphQL Blue Guitar
- * Author: Matt Cromwell, for BenUNC birthday
+ * Author: Matt Cromwell, in honor of Blues King BenUNC for his birthday
+ * 
+ * @package JasonBahlsHumor
  */
 
 add_action( 'graphql_register_types', function() {
